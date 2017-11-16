@@ -1,7 +1,0 @@
-﻿  源.cpp
-d:\code\c++\algorithm\test\test\源.cpp(89): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-d:\code\c++\algorithm\test\test\源.cpp(214): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-d:\code\c++\algorithm\test\test\源.cpp(226): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
-d:\code\c++\algorithm\test\test\源.cpp(206): warning C4101: “end”: 未引用的局部变量
-d:\code\c++\algorithm\test\test\源.cpp(206): warning C4101: “start”: 未引用的局部变量
-  test.vcxproj -> D:\Code\C++\Algorithm\test\x64\Debug\test.exe
