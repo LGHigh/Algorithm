@@ -60,4 +60,4 @@ int main()
         else printf("%.10f\n", ans);  
     }  
     return 0;  
-}  
+}
